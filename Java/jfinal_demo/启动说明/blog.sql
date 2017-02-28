@@ -10,7 +10,7 @@ CREATE TABLE `blog` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
-INSERT INTO `blog` VALUES ('1', 'JFinal Demo Title here', 'JFinal Demo Content here');
+INSERT INTO `blog` VALUES ('1', 'JFinal Demo Headline here', 'JFinal Demo Paper here');
 INSERT INTO `blog` VALUES ('2', 'test 1', 'test 1');
 INSERT INTO `blog` VALUES ('3', 'test 2', 'test 2');
 INSERT INTO `blog` VALUES ('4', 'test 3', 'test 3');
