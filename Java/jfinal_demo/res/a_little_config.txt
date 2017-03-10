@@ -1,4 +1,4 @@
-jdbcUrl = jdbc:mysql://localhost/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+jdbcUrl = jdbc:mysql://115.28.245.5/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
 user = root
-password =root
+password =1234
 devMode = true
